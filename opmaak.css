@@ -3,8 +3,16 @@ body {
 }
 
 h1 {
-  color: rgb(116, 129, 152);
+  color: rgb(255, 255, 255);
   margin-left: 20px;
+}
+
+h2 {
+color:rgb(255, 255, 255)
+}
+
+h3 {
+  color: rgb(255, 255, 255);
 }
 
 ul {
