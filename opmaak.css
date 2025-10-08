@@ -3,12 +3,12 @@ body {
 }
 
 h1 {
-  color: rgb(86, 0, 245);
+  color: rgb(17, 23, 207);
   margin-left: 20px;
 }
 
 h2 {
-color:rgb(86, 0, 245)
+color:rgb(17, 23, 207)
 }
 
 h3 {
@@ -20,7 +20,7 @@ ul {
   margin: 0;
   padding: 0;
 overflow: hidden;
-background-color: rgb(86, 0, 245);
+background-color: rgb(17, 23, 207);
 }
 
 
