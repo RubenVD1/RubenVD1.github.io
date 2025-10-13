@@ -36,3 +36,9 @@ img {
 margin-left: 250px;
 border-radius: 67px;
 }
+
+.right-photo {
+  float: right;       
+  margin-left: 15px;   
+  margin-bottom: 10px; 
+}
