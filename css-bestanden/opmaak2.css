@@ -36,3 +36,13 @@ img {
 margin-left: 30px;
 border-radius: 67px;
 }
+
+.footer {
+ position: sticky;
+ left: 0;
+ bottom: 0px;
+ width: 100%;
+ background-color: rgb(26, 150, 109);
+ color: rgb(163, 54, 44);
+text-align: center;
+}
